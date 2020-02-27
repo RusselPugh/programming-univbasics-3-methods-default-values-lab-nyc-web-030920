@@ -3,7 +3,7 @@
 veg1 = "broccoli"
 veg2 = "macaroni"
 protein = "tofu"
-def meal_choice(veg1, veg2, protein * "meat")
+def meal_choice(veg1, veg2, protein*)
    puts "What a nutritious meal!"
    value = "A plate of #{protein} with #{veg1} and #{veg2}."
    return value
